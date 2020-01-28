@@ -99,7 +99,7 @@ See **Appendix** about the code details of the  Runway model.
 
 #### Billboard - show info part
 
-![Screen Shot 2018-12-21 at 7.02.22 PM](./img/Screen Shot 2018-12-21 at 7.02.22 PM.png)
+![Screen Shot 2018-12-21 at 7.02.22 PM](./img/8.png)
 
 Billboard is an externally imported model, but in order to switch the displayed content automatically or manually, the external display part (similar to the screen) is not imported but self-build.
 
